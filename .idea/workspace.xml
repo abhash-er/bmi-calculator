@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9529ca46-7bbc-4aac-940d-f27ce61ee0bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/calculator_brain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/bottom_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/icon_content.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/reusable_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/round_icon_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/result_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lScuieHl3kDelijkyG4Gjqyt22" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/C/AppData/Local/Android" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Flutter\bmi-calculator-flutter\lib\components" />
+      <recent name="D:\Project\Flutter\bmi-calculator-flutter\lib\screens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9529ca46-7bbc-4aac-940d-f27ce61ee0bb" name="Default Changelist" comment="" />
+      <created>1607594157354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607594157354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1491" height="133" key="GridCell.Tab.0.bottom" timestamp="1607624846438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607624846438" />
+    <state width="1491" height="133" key="GridCell.Tab.0.center" timestamp="1607624846438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607624846438" />
+    <state width="1491" height="133" key="GridCell.Tab.0.left" timestamp="1607624846438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607624846438" />
+    <state width="1491" height="133" key="GridCell.Tab.0.right" timestamp="1607624846438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607624846438" />
+    <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1607624399809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1607624399809" />
+  </component>
+</project>
